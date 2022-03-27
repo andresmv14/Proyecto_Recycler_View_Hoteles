@@ -1,7 +1,6 @@
 package com.mendozavalerio.hoteles.adaptador
 
 import android.view.LayoutInflater
-import android.view.TextureView
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
