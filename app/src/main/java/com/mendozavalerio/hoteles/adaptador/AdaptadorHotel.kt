@@ -12,7 +12,7 @@ import com.mendozavalerio.hoteles.modelo.Hotel
 import com.squareup.picasso.Picasso
 
 class AdaptadorHotel (val listaHoteles: ArrayList<Hotel>):RecyclerView.Adapter<AdaptadorHotel.ViewHolder>(){
-
+    //comentario
 
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
